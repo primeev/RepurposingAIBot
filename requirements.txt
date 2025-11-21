@@ -1,5 +1,0 @@
-python-telegram-bot==20.8
-moviepy
-ffmpeg-python
-imageio-ffmpeg
-aiohttp
